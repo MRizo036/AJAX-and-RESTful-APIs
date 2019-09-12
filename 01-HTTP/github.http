@@ -1,2 +1,2 @@
-GET https://api.github.com/users/HansUXdev
+GET https://api.github.com/users/mrizo036
 content-type: application/json
